@@ -1,2 +1,2 @@
 # Orologio-WEBPONTO
-Sistema para o gerenciamento centralizado de funcionários e banco de horas.
+Sistema para o gerenciamento de funcionários e banco de horas.
